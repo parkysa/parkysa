@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou a Maysa! 👋</h1>
+<h1>Oiii! Eu sou a Maysa 👋</h1>
 
 <p>Seja bem-vinda(o) ao meu perfil! Fique à vontade para explorar meus projetos e contribuições.</p>
 
